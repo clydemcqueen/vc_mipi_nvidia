@@ -3,3 +3,4 @@
 .vscode-ctags*
 build/
 temp/
+.idea/
